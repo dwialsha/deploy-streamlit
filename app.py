@@ -8,7 +8,8 @@ st.set_page_config(page_title="Visualisasi Donasi Lingkungan", layout="wide")
 # HEADER & DESKRIPSI
 # ==========================
 st.title("🌱 Dashboard Visualisasi Donasi Lingkungan")
-st.write("Aplikasi ini menampilkan data donasi dari berbagai kampanye lingkungan menggunakan beberapa jenis grafik yang dapat dipilih melalui dropdown.")
+st.write("Selamat datang! Aplikasi ini menampilkan data donasi dari sepuluh kampanye lingkungan. "
+         "Gunakan menu dropdown untuk memilih jenis grafik dan jelajahi datanya secara visual.")
 
 st.image("mangrove.jpg", caption="Kegiatan Pelestarian Mangrove")
 
